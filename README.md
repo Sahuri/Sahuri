@@ -19,12 +19,13 @@ I am a veteran Software Engineer with nearly 20 years of experience specializing
 - **Databases**: PostgreSQL, MySQL, Oracle
 
 ---
+### 🏗️ Featured Technical Showcases & Architecture
 
-### 🏗️ Featured Architectural Concept (Coming Soon / Showcase)
-*As most of my production work falls under strict financial NDAs, I use this space to share open-source simulations of enterprise architectural patterns.*
+*As most of my enterprise production work falls under strict financial NDAs, I use this personal space to benchmark, experiment, and share open-source simulations of core backend patterns.*
 
-- 🚀 **[payment-gateway-concurrency-demo]** *(Tips: Buat repo dummy ini nanti)*: A demo showcase demonstrating high-throughput payment processing using Java 21 Virtual Threads and Spring Boot 3.
-
+- 🚀 **[ThreadTest](https://github.com/Sahuri/ThreadTest)**: A high-concurrency benchmarking laboratory focused on performance tuning. It explores modern Java concurrency models, including **Java 21 Virtual Threads (Project Loom)** and multi-threading architectures, specifically tailored for optimizing massive transaction throughput.
+- 🛡️ **[JavaAopFilter](https://github.com/Sahuri/JavaAopFilter)**: A production-ready architectural pattern showcasing decoupled cross-cutting concerns using **Spring AOP and Custom Filters**. Essential for FinTech applications to handle centralized logging, security auditing, and request validation without cluttering core business logic.
+- 📊 **[flink-csv-mssql](https://github.com/Sahuri/flink-csv-mssql)**: A high-performance Big Data pipeline project utilizing **Apache Flink** to ingest, process, and stream large-scale CSV datasets into MS SQL Server. Demonstrates expertise in stream processing and data integration patterns crucial for enterprise analytics.
 ---
 
 ### 🤝 Connect with Me
