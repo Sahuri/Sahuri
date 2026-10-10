@@ -16,7 +16,8 @@ I am a veteran Software Engineer with nearly 20 years of experience specializing
 - **Event Streaming & Messaging**: Apache Kafka
 - **Concurrency**: Virtual Threads (Project Loom), Advanced Multi-threading
 - **Architecture**: Microservices, Event-Driven Architecture (EDA), Domain-Driven Design (DDD)
-- **Databases**: PostgreSQL, MySQL, Oracle
+- **Databases**: PostgreSQL, MySQL, Oracle, Microsoft SQL Server
+- **Caching & Data Stores**: Redis
 
 ---
 ### 🏗️ Featured Technical Showcases & Architecture
