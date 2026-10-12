@@ -5,6 +5,7 @@ I am a veteran Software Engineer with nearly 20 years of experience specializing
 
 - 🏦 **Expertise**: Core Banking Integrations, Loan Disbursement Systems, High-Volume Payment Gateways (VA, Credit Card, QRIS).
 - 🚀 **Current Focus**: High-concurrency optimization using **Java 21 Virtual Threads** and Event-Driven Architectures with **Apache Kafka**.
+- 🤖 **Also Passionate About**: **Agentic AI**, **RAG** (Retrieval-Augmented Generation), and **MCP** (Model Context Protocol) — building LLM-driven tooling on top of core banking and payment systems.
 - 🛠️ **Roles**: Software Architect | Tech Lead | Scrum Master.
 
 ---
